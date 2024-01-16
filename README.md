@@ -57,22 +57,22 @@ Install TestNG from Eclipse MarketPlace:
 7. In the Project Structure dialog, on the left side, click on "Modules."
 8. Select your module (usually named after your project).
 9. Go to the "Dependencies" tab.
-10.Click on the "+" (plus) sign to add a new dependency.
-11.Choose "Library" and then select "From Maven...".
-12.In the search box, type "org.testng.testng" to find the TestNG library.
-13.Select the desired version and click "OK."
-14.Apply Changes:
-15.Click "OK" to apply the changes and close the Project Structure dialog.
-16.IntelliJ IDEA will download the TestNG library and add it to your project.
-17.Configure TestNG in Run/Debug Configurations:
-18.Create a new TestNG configuration:
-19.Click on the "Run/Debug Configurations" dropdown near the top-right corner of the IntelliJ window.
-20.Select "Edit Configurations..."
-21.Click on the "+" button to add a new configuration and choose "TestNG."
-22.Configure the TestNG library:
-23.In the "Configuration" tab, specify the Suite path or test class names.
-24.Specify the TestNG library by clicking on the "..." button next to the "Use classpath of module" field. Choose your module or select the 25.TestNG library directly.
-26.Click "OK" to save the configuration.
+10. Click on the "+" (plus) sign to add a new dependency.
+11. Choose "Library" and then select "From Maven...".
+12. In the search box, type "org.testng.testng" to find the TestNG library.
+13. Select the desired version and click "OK."
+14. Apply Changes:
+15. Click "OK" to apply the changes and close the Project Structure dialog.
+16. IntelliJ IDEA will download the TestNG library and add it to your project.
+17. Configure TestNG in Run/Debug Configurations:
+18. Create a new TestNG configuration:
+19. Click on the "Run/Debug Configurations" dropdown near the top-right corner of the IntelliJ window.
+20. Select "Edit Configurations..."
+21. Click on the "+" button to add a new configuration and choose "TestNG."
+22. Configure the TestNG library:
+23. In the "Configuration" tab, specify the Suite path or test class names.
+24. Specify the TestNG library by clicking on the "..." button next to the "Use classpath of module" field. Choose your module or select the TestNG library directly.
+25. Click "OK" to save the configuration.
     
 
    
