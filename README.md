@@ -29,6 +29,8 @@ This project is intended to use Selenium in Java to automate the functionality o
 9. If error persists and the recorded screenshots can be achieved in path: C:\Java-Eclipse\ToDoWebApp\src\com\cat\Automateit\CreateList&TasksCases\screenshot_example.png (project should be Refreshed)
 
 ## How to Add TestNG library? (To be Marked)
+**IN ECLIPSE**
+<br>
 Install TestNG from Eclipse MarketPlace:
 1. Open Eclipse IDE.
 2. Go to "Help" > "Eclipse Marketplace."
@@ -44,6 +46,33 @@ Install TestNG from Eclipse MarketPlace:
 12. Select "TestNG" from the list and click "Next."
 13. Choose the TestNG library version and click "Finish."
 14. Click "Apply and Close" in the "Properties" dialog.
+
+**IN INTELLIJ**
+1. Open Project:
+2. Open your IntelliJ IDEA project.
+3. Open Project Structure:
+4. Click on "File" in the top menu.
+5. Select "Project Structure" or use the shortcut Ctrl + Alt + Shift + S (on Windows/Linux) or Cmd + ; (on Mac).
+6. Add TestNG Library:
+7. In the Project Structure dialog, on the left side, click on "Modules."
+8. Select your module (usually named after your project).
+9. Go to the "Dependencies" tab.
+10.Click on the "+" (plus) sign to add a new dependency.
+11.Choose "Library" and then select "From Maven...".
+12.In the search box, type "org.testng.testng" to find the TestNG library.
+13.Select the desired version and click "OK."
+14.Apply Changes:
+15.Click "OK" to apply the changes and close the Project Structure dialog.
+16.IntelliJ IDEA will download the TestNG library and add it to your project.
+17.Configure TestNG in Run/Debug Configurations:
+18.Create a new TestNG configuration:
+19.Click on the "Run/Debug Configurations" dropdown near the top-right corner of the IntelliJ window.
+20.Select "Edit Configurations..."
+21.Click on the "+" button to add a new configuration and choose "TestNG."
+22.Configure the TestNG library:
+23.In the "Configuration" tab, specify the Suite path or test class names.
+24.Specify the TestNG library by clicking on the "..." button next to the "Use classpath of module" field. Choose your module or select the 25.TestNG library directly.
+26.Click "OK" to save the configuration.
     
 
    
