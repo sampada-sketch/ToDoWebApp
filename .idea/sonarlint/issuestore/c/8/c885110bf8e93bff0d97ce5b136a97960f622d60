@@ -1,0 +1,21 @@
+
+x
+java:S1192C"[Define a constant instead of duplicating this literal "//input[@id='mat-input-0']" 4 times.(ïøøŞ8ƒåÛóĞ1
+y
+java:S1192V"WDefine a constant instead of duplicating this literal "//button[@class='btn']" 5 times.(Î¥Ìùÿÿÿÿ8„åÛóĞ1
+¶
+java:S1192M"“Define a constant instead of duplicating this literal "//span[@class='iti__country-name' and contains(text(), 'Nepal (à¤¨à¥‡à¤ªà¤¾à¤²)')]" 4 times.(ÖÕ£Äıÿÿÿÿ8„åÛóĞ1
+b
+java:S1192S"FDefine a constant instead of duplicating this literal "email" 4 times.(‘¯®E8…åÛóĞ1
+w
+java:S1192P"UDefine a constant instead of duplicating this literal "//input[@type='tel']" 4 times.(™şáşÿÿÿÿ8…åÛóĞ1
+p
+java:S1192I"SDefine a constant instead of duplicating this literal "country-search-box" 4 times.(’ÇÑ¦8…åÛóĞ1
+
+java:S1192<"mDefine a constant instead of duplicating this literal "(//span[@class='mat-radio-inner-circle'])[2]" 4 times.(²¬áÑıÿÿÿÿ8…åÛóĞ1
+
+java:S1192F"sDefine a constant instead of duplicating this literal "//div[@class='iti__selected-flag dropdown-toggle']" 4 times.(–³üš8…åÛóĞ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ¹£ä8åÛóĞ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³Î×8åÛóĞ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹ğõ¾ÿÿÿÿÿ8åÛóĞ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï–¬–8åÛóĞ1
